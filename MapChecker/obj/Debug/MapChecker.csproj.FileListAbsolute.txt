@@ -1,0 +1,5 @@
+C:\code\NET\Git\SMB\Source\Application\MapCheck\bin\Debug\MapChecker.dll
+C:\code\NET\Git\SMB\Source\Application\MapCheck\bin\Debug\MapChecker.pdb
+C:\code\NET\Git\SMB\Source\Application\MapCheck\obj\Debug\MapChecker.csprojResolveAssemblyReference.cache
+C:\code\NET\Git\SMB\Source\Application\MapCheck\obj\Debug\MapChecker.dll
+C:\code\NET\Git\SMB\Source\Application\MapCheck\obj\Debug\MapChecker.pdb

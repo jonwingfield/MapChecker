@@ -1,0 +1,7 @@
+C:\code\NET\Git\SMB\Source\Application\MapChecker.Tests\bin\Debug\MapChecker.UnitTests.dll
+C:\code\NET\Git\SMB\Source\Application\MapChecker.Tests\bin\Debug\MapChecker.UnitTests.pdb
+C:\code\NET\Git\SMB\Source\Application\MapChecker.Tests\bin\Debug\MapChecker.dll
+C:\code\NET\Git\SMB\Source\Application\MapChecker.Tests\bin\Debug\MapChecker.pdb
+C:\code\NET\Git\SMB\Source\Application\MapChecker.Tests\obj\Debug\MapChecker.UnitTests.csprojResolveAssemblyReference.cache
+C:\code\NET\Git\SMB\Source\Application\MapChecker.Tests\obj\Debug\MapChecker.UnitTests.dll
+C:\code\NET\Git\SMB\Source\Application\MapChecker.Tests\obj\Debug\MapChecker.UnitTests.pdb

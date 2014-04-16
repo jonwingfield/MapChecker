@@ -1,0 +1,1 @@
+C:\code\NET\Git\SMB\Source\Application\MapCheck\obj\Debug\MapCheck.csprojResolveAssemblyReference.cache
